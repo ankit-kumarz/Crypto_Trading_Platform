@@ -34,4 +34,4 @@ A browser-based cryptocurrency trading simulator with real exchange UI patterns.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/ankit1068/Crypto_Trading_Interface.git
+   git clone https://github.com/ankit1068/Crypto_Trading_Platform.git
