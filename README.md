@@ -83,3 +83,12 @@ Email: your-ankitrajj1068@gmail.com
 
 GitHub: ankit1068
 
+# screenshots:-
+![Screenshot 2025-03-30 213449](https://github.com/user-attachments/assets/56424320-3674-4bd8-8e59-da231eb62b32)
+![Screenshot 2025-03-30 213514](https://github.com/user-attachments/assets/a234eed7-d4b7-4ce2-b568-fe7917778eea)
+![Screenshot 2025-03-30 213534](https://github.com/user-attachments/assets/1ee1f0fe-245d-4f9d-9a2a-2ea216763137)
+![Screenshot 2025-03-30 213551](https://github.com/user-attachments/assets/76d3e724-d324-4bee-900d-d1c00f13123a)
+![Screenshot 2025-03-30 213627](https://github.com/user-attachments/assets/4735dffc-d6d3-4db8-a508-c6074bd0080e)
+![Screenshot 2025-03-30 213641](https://github.com/user-attachments/assets/cdca3d97-d6d5-45e4-b0ab-b88890fe12c0)
+
+
