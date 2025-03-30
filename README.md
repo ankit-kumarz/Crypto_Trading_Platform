@@ -67,4 +67,9 @@ Watch balance update after trades
 |-- script.js           # Trading logic & chart
 |-- README.md           # This file
 
+# Contributing 🤝
+Pull requests welcome! For major changes, please open an issue first.
+
+# License 📜
+MIT
 
