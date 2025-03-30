@@ -61,11 +61,12 @@ Track your assets in real-time
 Watch balance update after trades
 
 # Code Structure 📂
-
-|-- index.html          # Main interface
-|-- styles.css          # All styling
-|-- script.js           # Trading logic & chart
-|-- README.md           # This file
+📁 sentiment-analysis-webapp
+ ├── 📄 index.html         # Main Interface
+ ├── 📄 styles.css         # All styling
+ ├── 📄 script.js          # trading logic $ chart
+ ├── 📄 README.md          # This file
+ 
 
 # Contributing 🤝
 Pull requests welcome! For major changes, please open an issue first.
