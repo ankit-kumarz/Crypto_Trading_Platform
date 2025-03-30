@@ -1,5 +1,5 @@
 # Crypto_Trading_Platform
-A browser-based cryptocurrency trading simulator with real exchange UI patterns. Practice trading BTC/USDT with virtual funds!
+A web-based cryptocurrency trading simulator with real exchange UI patterns. Practice trading BTC/USDT with virtual funds!
 
 ## Features ✨
 
