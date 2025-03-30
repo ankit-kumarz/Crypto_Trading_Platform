@@ -66,3 +66,5 @@ index.html          # Main interface
 styles.css          # All styling
 script.js           # Trading logic & chart
 README.md           # This file
+
+
