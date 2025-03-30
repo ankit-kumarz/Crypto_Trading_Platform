@@ -61,7 +61,7 @@ Track your assets in real-time
 Watch balance update after trades
 
 # Code Structure 📂
-📁 sentiment-analysis-webapp
+📁 Crypto-tp
  ├── 📄 index.html         # Main Interface
  ├── 📄 styles.css         # All styling
  ├── 📄 script.js          # trading logic $ chart
