@@ -68,10 +68,18 @@ Watch balance update after trades
  ├── 📄 README.md          # This file
  
 
-# Contributing 🤝
-Pull requests welcome! For major changes, please open an issue first.
+🤝 Contributions & Feedback
+Open to suggestions! Feel free to fork, star, and contribute!
 
-# License 📜
-MIT
+🔗 GitHub Repository: [https://github.com/ankit1068/Crypto_Trading_Platform]
 
+Contact
+
+For any questions or feedback, feel free to contact:
+
+Author: Ankit kumar
+
+Email: your-ankitrajj1068@gmail.com
+
+GitHub: ankit1068
 
