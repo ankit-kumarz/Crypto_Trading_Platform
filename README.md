@@ -35,3 +35,27 @@ A browser-based cryptocurrency trading simulator with real exchange UI patterns.
 1. Clone the repo:
    ```bash
    git clone https://github.com/ankit1068/Crypto_Trading_Platform.git
+
+
+# How to Trade 💡
+# Buy BTC
+
+Enter amount in BTC or USDT
+
+Click percentage buttons for quick fills
+
+Hit "Buy BTC" to execute
+
+# Sell BTC
+
+Enter amount you want to sell
+
+See estimated return in USDT
+
+Click "Sell BTC" to complete
+
+# Monitor Portfolio
+
+Track your assets in real-time
+
+Watch balance update after trades
