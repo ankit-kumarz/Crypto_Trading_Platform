@@ -20,3 +20,18 @@ A browser-based cryptocurrency trading simulator with real exchange UI patterns.
 💰 **Portfolio Dashboard**
 - Asset value tracking
 - Real-time PNL updates
+
+## Tech Stack ⚙️
+
+| Frontend       | Description                          |
+|----------------|--------------------------------------|
+| HTML5          | Semantic structure                   |
+| CSS3           | Modern Flexbox/Grid layout           |
+| JavaScript     | Interactive trading logic            |
+| Canvas API     | Custom candlestick chart rendering   |
+
+## Installation 🛠️
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/ankit1068/Crypto_Trading_Interface.git
