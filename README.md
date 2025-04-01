@@ -8,7 +8,7 @@ This project is a web-based cryptocurrency trading simulator that mimics the cor
 - Multiple timeframes (5m, 1h, 4h, 1d)
 - Hover-to-inspect price details
 
-💸 **Trading Panel**
+💸 **Trading Panel**-
 - Buy/Sell forms with amount calculators
 - Percentage shortcuts (25%, 50%, 75%, 100%)
 - Virtual balance tracking ($500 starting funds)
