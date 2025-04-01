@@ -13,7 +13,7 @@ This project is a web-based cryptocurrency trading simulator that mimics the cor
 - Percentage shortcuts (25%, 50%, 75%, 100%)
 - Virtual balance tracking ($500 starting funds)
 
-📈 **Market Data**
+📈 **Market Data**-
 - Simulated order book (bids/asks)
 - Color-coded price levels
 
