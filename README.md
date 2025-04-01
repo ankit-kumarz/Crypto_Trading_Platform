@@ -1,4 +1,4 @@
-# Crypto_Trading_Platform
+# Crypto_Trading_Platform-
 This project is a web-based cryptocurrency trading simulator that mimics the core interface of platforms like Binance. It features an interactive candlestick chart with mock price data, a functional order book display, and a trading panel where users can simulate buying/selling BTC with a starting balance of $500 virtual USDT. Built entirely with vanilla HTML, CSS, and JavaScript, the self-contained frontend includes portfolio tracking for crypto assets (BTC/ETH) and responsive design elements, providing a realistic trading experience without backend dependencies or real market data connections.
 
 ## Features ✨
