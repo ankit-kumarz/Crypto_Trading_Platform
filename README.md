@@ -10,7 +10,7 @@ This project is a web-based cryptocurrency trading simulator that mimics the cor
 - Hover-to-inspect price details
 
 💸 **Trading Panel**-
-- Buy/Sell forms with amount calculators.
+- Buy/Sell forms with amount calculators
 - Percentage shortcuts (25%, 50%, 75%, 100%)
 - Virtual balance tracking ($500 starting funds)
 
@@ -55,7 +55,7 @@ See estimated return in USDT
 
 Click "Sell BTC" to complete
 
-# Monitor Portfolio
+# Monitor Portfolio:-
 
 Track your assets in real-time
 
