@@ -3,7 +3,7 @@ This project is a web-based cryptocurrency trading simulator that mimics the cor
 
 ## Features ✨
 
-📊 **Interactive Trading View**
+📊 **Interactive Trading View** 
 - Real-time candlestick chart (simulated data)
 - Multiple timeframes (5m, 1h, 4h, 1d)
 - Hover-to-inspect price details
