@@ -71,7 +71,7 @@ Watch balance update after trades
 🤝 Contributions & Feedback
 Open to suggestions! Feel free to fork, star, and contribute!
 
-🔗 GitHub Repository: [https://github.com/ankit1068/Crypto_Trading_Platform]
+🔗 GitHub Repository: [https://github.com/ankit1068/Crypto_Trading_Platform].
 
 Contact
 
