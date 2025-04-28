@@ -71,7 +71,7 @@ Watch balance update after trades
 🤝 Contributions & Feedback
 Open to suggestions! Feel free to fork, star, and contribute!
 
-🔗 GitHub Repository: [https://github.com/ankit1068/Crypto_Trading_Platform].
+🔗 GitHub Repository: [https://github.com/ankit-kumarz/Crypto_Trading_Platform].
 
 Contact
 
@@ -81,7 +81,7 @@ Author: Ankit kumar
 
 Email: ankitrajj1068@gmail.com
 
-GitHub: ankit1068
+GitHub: ankit-kumarz
 
 # Screenshots:-
 ![Screenshot 2025-03-30 213449](https://github.com/user-attachments/assets/56424320-3674-4bd8-8e59-da231eb62b32)
